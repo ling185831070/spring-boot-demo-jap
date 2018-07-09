@@ -1,0 +1,3 @@
+# spring-boot-demo-jpa
+在jpa中有很多默认操作，这些操作的实现类为SimpleJpaRepository，实现的接口是JpaRepositoryImplementation，
+所以想要获取这些功能可以直接继承JpaRepositoryImplementation即可
